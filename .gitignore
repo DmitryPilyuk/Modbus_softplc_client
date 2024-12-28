@@ -1,0 +1,5 @@
+.vscode/
+build/
+libmodbus-3.1.11/
+v3.1.11.tar.gz
+client
